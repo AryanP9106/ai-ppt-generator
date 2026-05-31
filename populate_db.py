@@ -113,4 +113,4 @@ def generate_and_save_slides(topic, num_slides, model="gemma4", db_path="present
 
 
 if __name__ == "__main__":
-    generate_and_save_slides("Future of AI in Software Engineering", 10)
+    generate_and_save_slides("Future of AI in Software Engineering", 10, model="gemma:2b")
