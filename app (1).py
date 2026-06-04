@@ -15,7 +15,6 @@ from pptx.dml.color import RGBColor
 # ─── MODELS ──────────────────────────────────────────────────────
 LOCAL_MODELS = [
     "gemma:2b",
-    "gemma4:latest",
 ]
 
 UNSPLASH_KEY = "FBT7VO06efjln1SnF3l_yKjMYP5N7ReS1ti4qzjvig4"
